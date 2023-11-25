@@ -2,7 +2,7 @@
 firmware-20231125-152215.bin
 
 # Ender-5 4.2.7 32 bits avec BLTouch Marlin 2.1.2.1 EN 
-firmware-20231121-002343.bin
+firmware-20231125-153959.bin
 
 # Ender-5 4.2.732 bits Marlin 2.1.2.1 French
 firmware-20231122-003448.bin
