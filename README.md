@@ -13,7 +13,7 @@ firmware-20231122-003448.bin
 firmware-20231120-235233.bin
 
 
-Les modifications apportées au code Créality pour Ender 5: 
+# Les modifications apportées au code Créality pour Ender 5: 
 
 #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 800, 93 }
 
