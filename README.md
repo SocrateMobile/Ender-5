@@ -21,6 +21,9 @@ Mise en place du CRTouch
 
 #define BLTOUCH
 /#define Z_MIN_PROBE_USES_Z_MIN_ENDSTOP_PIN
+
 #define USE_PROBE_FOR_Z_HOMING
+
 #define Z_MIN_PROBE_PIN PB1 // Pin 32 is the RAMPS default (PB1 is for Z_MIN_PROBE PB1 defined in Marlin>src>PINS>STM32f1>pins_CREALITY_V4.h)
+
 #define Z_CLEARANCE_DEPLOY_PROBE   1 // Z Clearance for Deploy/Stow
