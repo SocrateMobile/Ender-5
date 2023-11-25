@@ -15,7 +15,7 @@ firmware-20231122-003448.bin
 # Ender-5 4.2.7 32 bits Marlin 2.1.2.1 EN
 firmware-20231120-235233.bin
 
-# Les modifications apportées au code Créality pour Ender 5: 
+# Modifications apportées au code Créality Ender 5: 
 
 #define DEFAULT_AXIS_STEPS_PER_UNIT   { 80, 80, 800, 93 }
 ________________________________________________
