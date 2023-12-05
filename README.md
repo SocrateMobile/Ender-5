@@ -1,23 +1,33 @@
 Ici les fichiers sont pour une carte mere 32 bits STM32F103RE.
-Pour la STM32F103RC, il faudre la compiler, ou me la demander 
+Pour la STM32F103RE_creality, il faudre la compiler, ou me la demander 
 
 
 # Le fichier soucrce Ender-5 4.2.7 32 bits avec BLTouch Marlin 2.1.2.1 French
 MarlinCRT OK.zip
 
 # Ender-5 4.2.7 32 bits avec BLTouch Marlin 2.1.2.1 French
-testé Ok avec CR Touch
+STM32F103RE_creality testé Ok avec CR Touch
 firmware-20231125-152215.bin
 
 # Ender-5 4.2.7 32 bits avec BLTouch Marlin 2.1.2.1 EN 
-testé Ok avec CR Touch
+STM32F103RE_creality testé Ok avec CR Touch
 firmware-20231125-153959.bin
 
 # Ender-5 4.2.732 bits Marlin 2.1.2.1 French
-firmware-20231122-003448.bin
+STM32F103RE_creality firmware-20231122-003448.bin
 
 # Ender-5 4.2.7 32 bits Marlin 2.1.2.1 EN
-firmware-20231120-235233.bin
+STM32F103RE_creality firmware-20231120-235233.bin
+
+
+________________________________________________
+
+#  Ender-5 4.2.7 32 bits avec BLTouch Marlin 2.1.2.1 French
+STM32F103RC_creality firmware-20231205-014339.bin
+
+
+________________________________________________
+
 
 # Modifications apportées au code Créality Ender 5: 
 
