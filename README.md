@@ -1,5 +1,5 @@
 Ici les fichiers sont pour une carte mere 32 bits STM32F103RE.
-Pour la STM32F103RE_creality, il faudre la compiler, ou me la demander 
+Pour la STM32F103RE_creality, il faudra le compiler, ou me le demander 
 
 
 # Le fichier soucrce Ender-5 4.2.7 32 bits avec BLTouch Marlin 2.1.2.1 French
