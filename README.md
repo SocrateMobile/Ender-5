@@ -5,7 +5,9 @@ comming soon
 
 # Ender-5 4.2.7 32 bits avec BLTouch Marlin 2.1.x French
 STM32F103RE_creality testé Ok avec CR Touch
-firmware-20231221-181654.bin
+firmware-20231221-181654.bin 
+
+github.com/<organization>/<repository>/blob/<branch_name>/README.md?plain=1
 
 # Ender-5 4.2.7 32 bits avec BLTouch Marlin 2.1.x EN 
 STM32F103RE_creality testé Ok avec CR Touch
