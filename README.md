@@ -8,7 +8,13 @@ Vous avez un fichier << Marlin-2.1.2.1.rar >> comprenant la source Marlin retrav
 
 Avec le également le firmware compilé "pret à flasher" 
 
-et le fichier "Ender 5 Marlin firmware cook.docx" pour vous aider à faire votre propre version 
+et le fichier << Ender 5 Marlin firmware cook.docx >> pour vous aider à faire votre propre version 
+=> Pas à pas pour installer telecherger Marlin 2.1.2.1, les fichiers de configuration propore à votre machine
+( suivre le meme pas a pas si vous avez une carte mere 4.2.7, en téléchargeant la version des fichiers Configuration.h et Configuration_adv.h pour votre imprimante)
+=> Pas à pas pour personnaliser votre configuration
+=> Pas à pas pour compiler votre firmware 
+
+Enjoy 
 
 --
 
