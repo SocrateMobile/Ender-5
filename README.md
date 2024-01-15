@@ -1,7 +1,8 @@
-Ici les fichiers sont pour une carte mere 32 bits STM32F103RE.
+# Ici les fichiers sont pour une carte mere Creality 32 bits 4.2.7 STM32F103RE.
 
 Vous avez un fichier << Marlin-2.1.2.1.rar >> comprenant la source Marlin retravaillée, avec les dernires modifications:
 - multilingue Francais / anglais,
+- Silent driver configurés
 - BL touch, ou CR Touch ou 3D Touch
 - Auto bed leveling avant impression
 
